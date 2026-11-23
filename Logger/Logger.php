@@ -2,6 +2,6 @@
 
 namespace Vindi\Payment\Logger;
 
-class Logger extends \Magento\Framework\Logger\Monolog
+class Logger extends \Monolog\Logger
 {
 }
